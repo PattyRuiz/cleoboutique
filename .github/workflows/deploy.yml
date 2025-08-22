@@ -2,7 +2,7 @@ name: Deploy Cleo (Vite) to GitHub Pages
 
 on:
   push:
-    branches: [ "principal" ]   # ← tu rama actual
+    branches: [ "main" ]   # ← tu rama actual
   workflow_dispatch:
 
 permissions:
