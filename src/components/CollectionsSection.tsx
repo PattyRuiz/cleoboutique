@@ -4,7 +4,7 @@ const CollectionsSection = () => {
   const collections = [
     {
       id: 1,
-      title: "Perfumería Cleo Mystique",
+      title: "Perfumería Cleo Boutique Mystique",
       description: "Fragancias de autor con estética premium que capturan la esencia de la feminidad moderna.",
       features: ["Notas florales exclusivas", "Frascos de cristal artesanal", "Duración prolongada"],
       color: "primary"
